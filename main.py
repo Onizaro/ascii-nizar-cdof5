@@ -1,5 +1,5 @@
 from letters import alphabet 
-text = input("tapez des lettres:")
+text = input("tapez des lettres:").lower()
 
 for i in range(11):
     for letter in text:
