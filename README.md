@@ -19,3 +19,8 @@ It should look like this:
 ## To do
 
 If it's possible, it would be great to transform our ASCII art text to an image
+
+## Contributors
+
+- Coraz0nn
+- Elbayly-Amir
